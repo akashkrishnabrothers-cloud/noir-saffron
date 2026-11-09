@@ -1,0 +1,8 @@
+{
+  "name": "NOIR & SAFFRON",
+  "description": "Luxury fine dining restaurant website featuring signature culinary creations, reservation booking, interactive curated menu, and bespoke dining experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
